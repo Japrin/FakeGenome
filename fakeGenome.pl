@@ -25,7 +25,7 @@ use File::Path;
 use Math::Random qw(random_poisson random_normal random_exponential);
 use common;
 
-my $version = '0.0.1';
+my $version = '1.0.0';
 my ($in,$out);
 if(@ARGV<1) { usage(); }
 
