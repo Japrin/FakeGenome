@@ -1,6 +1,6 @@
 FakeGenome is a genome simulation program.
 
-Directory contains example configure files.
+<Config dir> contains configure files (examle in dir Config.
 
 <region dir> contains region BED format files by chromosome such as chr1.bed, chr2.bed .... 
 
