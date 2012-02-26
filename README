@@ -1,1 +1,11 @@
-My genome simulation program
+FakeGenome is a simulation program.
+
+Directory contains example configure files.
+
+<region dir> contains region BED format files by chromosome such as chr1.bed, chr2.bed .... 
+
+<germline dir> is the out directory of germlineSite
+
+<fa dir> contains reference sequences in FASTA format by chromosome such as chr1.fa, chr2.fa ....
+
+<dir_SNP_dbSNP> and <dir_INDEL_dbSNP> contains SNP/INDEL sites in dbSNP. Files are VCF format by chromosme such as chr1.vcf, chr2.vcf ....

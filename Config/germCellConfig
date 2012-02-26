@@ -1,0 +1,34 @@
+#snp
+file_1000G =
+file_hapmap =
+file_dbsnp =
+dbSNP_SNP_rate = 0.95
+snp_rate = 0.005
+#snp_rate = 0.001
+het_hom_ratio = 1.5
+ti_tv_ratio_known = 3
+ti_tv_ratio_novel = 2.5
+ti_tv_ratio = 2.8
+#snp_random_mode = on
+
+#indel
+dbSNP_INDEL_rate = 0.45
+indel_rate = 0.0005
+file_indel_length_dist = 
+#indel_random_mode = on
+
+#CNV
+CNV_rate = 0.005
+file_CNV_length_dist = 
+
+#random_mode = on
+
+#genome
+
+#exome
+dir_SNP_dbSNP = ./data/dbsnp_132.hg18.exonRegionPlus250bp.SNP.byChr
+dir_INDEL_dbSNP = ./data/dbsnp_132.hg18.exonRegionPlus250bp.INDEL.byChr
+#dir_region = ./data/hg18_refGene.exonRegionPlus250bp.byChr.OnlyChr1
+
+#reference
+file_ref = ./data/refData_hg18

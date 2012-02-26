@@ -1,0 +1,25 @@
+#SNV
+SNV_rate = 5.5*100e-6
+#SNV_spectrum = random
+#SNV_random_mode = on
+het_hom_ratio = 10
+#indel
+indel_rate = $SNV_rate/10
+#indel_random_mode = on
+
+#random_mode = on
+
+#CNV
+#CNV_rate = 0.00001
+CNV_rate = 0.005
+#file_CNV_length_dist = 
+
+#genome
+
+#exome
+dir_SNP_dbSNP = ./data/dbsnp_132.hg18.exonRegionPlus250bp.SNP.byChr
+dir_INDEL_dbSNP = ./data/dbsnp_132.hg18.exonRegionPlus250bp.INDEL.byChr
+dir_region = ./data/hg18_refGene.exonRegionPlus250bp.byChr.OnlyChr1
+
+#reference
+file_ref = ./data/refData_hg18
