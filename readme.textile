@@ -4,15 +4,15 @@ p. FakeGenome is a genome simulation program.
 
 h2. Running argument
 
-* &ltConfig dir&gt contains configure files (examle in dir Config.
+* &lt;Config dir&gt; contains configure files (examle in dir Config.
 
-* &ltregion dir&gt contains region BED format files by chromosome such as chr1.bed, chr2.bed .... 
+* &lt;region dir&gt; contains region BED format files by chromosome such as chr1.bed, chr2.bed .... 
 
-* &ltgermline dir&gt is the out directory of germlineSite
+* &lt;germline dir&gt; is the out directory of germlineSite
 
-* &ltfa dir&gt contains reference sequences in FASTA format by chromosome such as chr1.fa, chr2.fa ....
+* &lt;fa dir&gt; contains reference sequences in FASTA format by chromosome such as chr1.fa, chr2.fa ....
 
-* &ltdir_SNP_dbSNP&gt and &ltdir_INDEL_dbSNP&gt contains SNP/INDEL sites in dbSNP. Files are VCF format by chromosme such as chr1.vcf, chr2.vcf ....
+* &lt;dir_SNP_dbSNP&gt; and &lt;dir_INDEL_dbSNP&gt; contains SNP/INDEL sites in dbSNP. Files are VCF format by chromosme such as chr1.vcf, chr2.vcf ....
 
 h2. FAQ
 
