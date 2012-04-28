@@ -4,9 +4,9 @@ p. FakeGenome is a genome simulation program.
 
 h2. Running argument
 
-* <Config dir> contains configure files (examle in dir Config.
+* "<Config dir>" contains configure files (examle in dir Config.
 
-* <region dir> contains region BED format files by chromosome such as chr1.bed, chr2.bed .... 
+* <p><region dir></p> contains region BED format files by chromosome such as chr1.bed, chr2.bed .... 
 
 * <germline dir> is the out directory of germlineSite
 
